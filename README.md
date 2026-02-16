@@ -1,4 +1,4 @@
-🧩 Juego de Rompecabezas en Flutter
+#🧩 Juego de Rompecabezas en Flutter
 📱 Descripción
 
 Este proyecto es un juego de rompecabezas desarrollado en Flutter, donde el usuario selecciona una imagen y debe reconstruirla organizando sus piezas correctamente en una cuadrícula de 3 × 3.
